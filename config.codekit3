@@ -7,7 +7,7 @@
 		"uuidString": "D6D1839A-2888-4BA3-B9F8-B6920F0E452B"
 		}
 	],
-"creatorBuild": "25428",
+"creatorBuild": "25444",
 "files": {
 	"\/.bowerrc": {
 		"ft": 8192,
@@ -1374,7 +1374,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/font-awesome\/scss\/font-awesome.scss",
 		"oF": 0,
 		"oS": 0,
@@ -4758,6 +4758,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/hero-alt.jpg": {
+		"ft": 16384,
+		"iS": 535682,
+		"oA": 0,
+		"oAP": "\/img\/hero-alt.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/hero.jpg": {
 		"ft": 16384,
 		"iS": 322265,
@@ -4820,6 +4828,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/map1.jpg": {
+		"ft": 16384,
+		"iS": 71968,
+		"oA": 0,
+		"oAP": "\/img\/map1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/map2.jpg": {
+		"ft": 16384,
+		"iS": 55922,
+		"oA": 0,
+		"oAP": "\/img\/map2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/map3.jpg": {
+		"ft": 16384,
+		"iS": 74620,
+		"oA": 0,
+		"oAP": "\/img\/map3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/news1.jpg": {
 		"ft": 16384,
 		"iS": 198616,
@@ -4836,10 +4868,64 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/product1.jpg": {
+		"ft": 16384,
+		"iS": 78141,
+		"oA": 0,
+		"oAP": "\/img\/product1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/product2.jpg": {
+		"ft": 16384,
+		"iS": 82964,
+		"oA": 0,
+		"oAP": "\/img\/product2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/share-facebook-page.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/share-facebook-page.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/share-facebook.png": {
+		"ft": 32768,
+		"iS": 42470,
+		"oA": 0,
+		"oAP": "\/img\/share-facebook.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/share-twitter-page.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/share-twitter-page.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/share-twitter.png": {
+		"ft": 32768,
+		"iS": 45655,
+		"oA": 0,
+		"oAP": "\/img\/share-twitter.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/index2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index2.html",
 		"oF": 0
 		},
 	"\/js\/app.js": {
@@ -4872,6 +4958,12 @@
 		"oAP": "\/main.html",
 		"oF": 0
 		},
+	"\/main2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/main2.html",
+		"oF": 0
+		},
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -4879,6 +4971,12 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/README.html",
+		"oF": 0
 		},
 	"\/README.md": {
 		"cS": 0,
