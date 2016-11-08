@@ -4732,6 +4732,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4773,6 +4779,12 @@
 		"oAP": "\/img\/hero.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/img\/homepage-alt.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/homepage-alt.mp4",
+		"oF": 0
 		},
 	"\/img\/homepage.mp4": {
 		"ft": 8192,
@@ -4868,6 +4880,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/poster-alt.jpg": {
+		"ft": 16384,
+		"iS": 51364,
+		"oA": 0,
+		"oAP": "\/img\/poster-alt.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/poster.jpg": {
+		"ft": 16384,
+		"iS": 116850,
+		"oA": 0,
+		"oAP": "\/img\/poster.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/product1.jpg": {
 		"ft": 16384,
 		"iS": 78141,
@@ -4886,11 +4914,11 @@
 		},
 	"\/img\/share-facebook-page.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 1014924,
 		"oA": 0,
 		"oAP": "\/img\/share-facebook-page.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/img\/share-facebook.png": {
 		"ft": 32768,
@@ -4902,11 +4930,11 @@
 		},
 	"\/img\/share-twitter-page.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 1098629,
 		"oA": 0,
 		"oAP": "\/img\/share-twitter-page.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/img\/share-twitter.png": {
 		"ft": 32768,
@@ -5017,7 +5045,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "css\/app.css",
+		"oAP": "\/css\/app.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
