@@ -4770,7 +4770,7 @@
 		"oA": 0,
 		"oAP": "\/img\/hero-alt.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/hero.jpg": {
 		"ft": 16384,
@@ -4778,7 +4778,7 @@
 		"oA": 0,
 		"oAP": "\/img\/hero.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/homepage-alt.mp4": {
 		"ft": 8192,
